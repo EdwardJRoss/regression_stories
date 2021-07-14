@@ -1,0 +1,3 @@
+pandas
+parsel
+requests
